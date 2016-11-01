@@ -1,0 +1,32 @@
+---
+title: "Lab Quiz 6"
+author: "Jennifer Gomez"
+date: "November 1, 2016"
+output: word_document
+---
+
+```{quiz 4}
+knitr::opts_chunk$set(echo = TRUE)
+
+4. The correlation between rating-raises correlation and rating-critical correlation is delta r = 0.43, 95% CI [.067, 0.79], *p* = .02, N = 30.The correlation difference is moderate with wide CIs ranging from .067 to .79 (plausible values). 
+
+5. The correlation between rating-raises and complaints-critical is delta r = 0.4, 95% CI [.015, 0.78], *p* < .05, N = 30. The correlation difference is moderate (.4) and the CIs are quite wide.These data indicate that while there may be a difference between the two correlations, the plausible values range from .15 to .78. 
+
+6. The correlation difference for the two independent group rating-raises correlations is 
+ delta r = 0.56, 95% CI [.26, 0.75], *p* = .0008, N = 30, N = 3000. The CIs are quite wide indicating a range of possible values of the difference of moderate positive to stong postive. However, the sample size numbers are quite different. 
+
+7. Conclude: based on the sample sizes, I would trust the correlation found by the researcher with N=3000 participants, as the two sample sizes are very different (very low correlation)
+
+1.	Comparing correlation between (A1,C1 and E1,O1): The correlation between A1,C1 and E1,O1 is delta r = -0.0099, 95% CI[-0.11,0.09], *p* = 0.85, N = 777.The CIs are fairly moderate.The difference of plausible range of values for these data range from -.11 to .09 (weak negative and weak postitive). 
+
+2.	Comparing correlation b/w overlapping: which predicts A1 better? The correlation between (A1, C1) and (A1, E1) is delta r = -0.08, 95% CI [-.18, .02], *p* = .13, N = 764. The CIs suggest a weak negative to no correlation.They both predict A1 the same? But plasusible difference could be from -.18 to .02. 
+
+3. The correlation for (A1,E1) for men and correlation for (A1,E1) for women was delta r = .02, 95% CI [-.14, .17], *p* = .8, N = 777. There is no difference.
+
+
+
+
+```
+
+
+
